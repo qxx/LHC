@@ -1,0 +1,25 @@
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="64px" width="64px" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="linearGradient5111" y2="360.63" gradientUnits="userSpaceOnUse" y1="311.53" gradientTransform="translate(0.3594,161.3984)" x2="294.45" x1="266.1">
+   <stop stop-color="#FE7" offset="0"/>
+   <stop stop-color="#EB3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <circle cx="280.63" cy="497.48" transform="translate(-248.03118,-465.95138)" r="28.347" fill="url(#linearGradient5111)"/>
+ <g style="writing-mode:lr-tb;letter-spacing:-2;text-anchor:start;text-align:start;" font-weight="normal" transform="translate(11.754003,45.536919)" font-stretch="normal" font-size="51.20000076px" font-variant="normal" font-style="normal" font-family="DejaVu Serif" line-height="125%">
+  <path style="text-align:start;" d="m10.85-2.9c2.0333-0.8,4.15-2.1667,6.35-4.1,1.3333-1.1667,2.7916-3.2,4.375-6.1,1.0166-1.8,1.5916-3.5333,1.725-5.2,0.13331-1.5333-0.15002-2.8833-0.85-4.05-0.95002-1.6166-2.025-2.5333-3.225-2.75v-1.475h2.8c1.8833,0.81669,3.4916,2.1334,4.825,3.95,1.0333,1.4,1.5583,2.95,1.575,4.65-0.000028,1.2334-0.24169,2.3583-0.725,3.375-0.35003,0.73335-1.125,1.9583-2.325,3.675-1.5834,2.2167-3.4,4.0917-5.45,5.625-3.75,2.8-6.775,4.5667-9.075,5.3h-4.625l0.025-23.9h-4.4v-2.675h9z"/>
+ </g>
+ <g style="writing-mode:lr-tb;text-anchor:start;text-align:start;" font-weight="normal" transform="translate(38.165103,45.536919)" font-stretch="normal" font-size="24px" font-variant="normal" font-style="normal" font-family="DejaVu Serif" line-height="125%">
+  <path style="text-align:start;" d="m8.6602-12.457,4.0312,0,0,11.238,2.0391,0,0,1.2188-4.1953,0,0-2.2031c-0.406,0.8283-0.8963,1.4592-1.4705,1.8928-0.5743,0.4336-1.2129,0.65039-1.9161,0.65039-0.4453,0-0.8515-0.07031-1.2187-0.21093-0.3672-0.14063-0.7031-0.35157-1.0078-0.63282v5.4961h-2.1562v-16.195h-1.9453v-1.2539h4.1016v7.2539c-0.0000049,1.5156,0.18749,2.5547,0.5625,3.1172,0.37499,0.5625,1.0351,0.84375,1.9805,0.84375,0.99999,0.0000012,1.7617-0.36719,2.2852-1.1016,0.52343-0.73437,0.78515-1.8008,0.78516-3.1992v-5.6602h-1.875z"/>
+ </g>
+</svg>

@@ -15,36 +15,9 @@
    id="svg5003"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="4-nelectron.svg">
+   sodipodi:docname="8.svg">
   <defs
      id="defs5005">
-    <linearGradient
-       id="SVGID_22_"
-       gradientUnits="userSpaceOnUse"
-       x1="124.3633"
-       y1="311.5264"
-       x2="152.7153"
-       y2="360.63361"
-       gradientTransform="translate(0.3594,161.3984)">
-      <stop
-         offset="0"
-         style="stop-color:#AAFF77"
-         id="stop3139" />
-      <stop
-         offset="1"
-         style="stop-color:#66CC33"
-         id="stop3141" />
-    </linearGradient>
-    <linearGradient
-       y2="360.63361"
-       x2="152.7153"
-       y1="311.5264"
-       x1="124.3633"
-       gradientTransform="translate(0.3594,161.3984)"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient5029"
-       xlink:href="#SVGID_22_"
-       inkscape:collect="always" />
     <linearGradient
        id="SVGID_18_"
        gradientUnits="userSpaceOnUse"
@@ -55,11 +28,11 @@
        gradientTransform="translate(0.3594,161.3984)">
       <stop
          offset="0"
-         style="stop-color:#AAFF77"
+         style="stop-color:#ffee77;stop-opacity:1;"
          id="stop3111" />
       <stop
          offset="1"
-         style="stop-color:#66CC33"
+         style="stop-color:#eebb33;stop-opacity:1;"
          id="stop3113" />
     </linearGradient>
     <linearGradient
@@ -87,7 +60,7 @@
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     inkscape:window-width="624"
+     inkscape:window-width="720"
      inkscape:window-height="986"
      inkscape:window-x="1366"
      inkscape:window-y="0"
@@ -104,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

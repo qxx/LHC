@@ -28,11 +28,11 @@
        gradientTransform="translate(0.3594,161.3984)">
       <stop
          offset="0"
-         style="stop-color:#AAFF77"
+         style="stop-color:#ffee77;stop-opacity:1;"
          id="stop3097" />
       <stop
          offset="1"
-         style="stop-color:#66CC33"
+         style="stop-color:#eebb33;stop-opacity:1;"
          id="stop3099" />
     </linearGradient>
     <linearGradient
@@ -53,18 +53,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5"
-     inkscape:cx="32"
-     inkscape:cy="32"
+     inkscape:zoom="3.8890873"
+     inkscape:cx="34.013764"
+     inkscape:cy="28.784468"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
-     inkscape:window-width="1280"
-     inkscape:window-height="1002"
-     inkscape:window-x="1358"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1">
+     inkscape:window-width="720"
+     inkscape:window-height="430"
+     inkscape:window-x="13"
+     inkscape:window-y="12"
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid4993" />
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

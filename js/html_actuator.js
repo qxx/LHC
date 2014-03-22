@@ -61,23 +61,24 @@ HTMLActuator.prototype.addTile = function (tile) {
 
   this.applyClasses(wrapper, classes);
 
-  var outputtext = new Array();
-  outputtext[0] = "";
-  outputtext[1] = "electron";
-  outputtext[2] = "electron neutrino";
-  outputtext[3] = "muon";
-  outputtext[4] = "muon neutrino";
-  outputtext[5] = "tau";
-  outputtext[6] = "tau neutrino";
-  outputtext[7] = "gluon";
-  outputtext[8] = "photon";
-  outputtext[9] = "Z boson";
-  outputtext[10] = "W boson";
-  outputtext[11] = "Higgs Boson";
+//  var outputtext = new Array();
+//  outputtext[0] = "";
+//  outputtext[1] = "e";
+//  outputtext[2] = "νe";
+//  outputtext[3] = "μ";
+//  outputtext[4] = "νμ";
+//  outputtext[5] = "τ";
+//  outputtext[6] = "ντ";
+//  outputtext[7] = "g";
+//  outputtext[8] = "γ";
+//  outputtext[9] = "Z";
+//  outputtext[10] = "W";
+//  outputtext[11] = "H";
 
 
   inner.classList.add("tile-inner");
-  inner.textContent = outputtext[(Math.log(tile.value) / Math.LN2)] || '';
+  inner.textContent = " ";
+//inner.textContent = outputtext[(Math.log(tile.value) / Math.LN2)] || '';
 
   if (tile.previousPosition) {
     // Make sure that the tile gets rendered in the previous position first

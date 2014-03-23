@@ -394,6 +394,12 @@ hr {
       .tile.tile-super .tile-inner {
         font-size: 10px; } }
 
+
+#preload body:after {
+	content: url('../i/2.png') url('../i/4.png') url('../i/8.png') url('../i/16.png') url('../i/32.png') url('../i/64.png') url('../i/128.png') url('../i/256.png') url('../i/512.png') url('../i/1024.png') url('../i/2048.png');
+	display: none;
+}
+
 @-webkit-keyframes appear {
   0% {
     opacity: 0;
